@@ -1,7 +1,7 @@
-primo step
+primo step installare i requisiti
 
                   pip install -r requirements.txt
-secondo step 
+secondo step   creare il database
 
                   python create_db.py
 terzo step 
